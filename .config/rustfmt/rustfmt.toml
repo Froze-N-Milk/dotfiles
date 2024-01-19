@@ -1,0 +1,7 @@
+
+# formatting
+combine_control_expr = false
+
+# indendation
+hard_tabs = true
+tab_spaces = 8
